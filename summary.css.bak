@@ -1,0 +1,82 @@
+/*ACCURACY METER*/
+#progressive_struc{
+margin-top:15px; 
+margin-left: 130px;
+height:50px;
+width:500px; 
+border-radius:5px;
+background-color:grey;
+opacity: 25%;
+
+}
+#progressbar{
+	border-radius:5px;
+	margin-left:0px;
+	background-color:#F60100;
+	height:50px;
+	width: 0px;
+	opacity: 25%;
+}
+
+
+/*ACCURACY METER*/
+
+
+
+#summary_main{
+
+height:600px;
+width: 400px;
+border:1px solid #65A5AD;
+
+}
+
+#main_header{
+
+background-color: #1E1F26;
+height: 70px;
+
+
+}
+
+#main_title{
+padding-left: 400px;
+font-family: Dosis;
+color: white;
+
+}
+
+
+#main_body{
+
+margin-top: 20px;
+border-bottom:1px solid #F60100;
+height: 70px;
+
+
+
+}
+
+#body_label{
+padding-left: 200px;
+padding-top: 7px;
+font-family: Dosis;
+color: black;
+font-size: 40px;
+}
+
+#body_label_R{
+padding-left: 50px;
+padding-top: 7px;
+
+font-family: Dosis;
+color: black;
+font-size: 40px;
+
+
+}
+#vertical_line{
+
+	width: 2px;
+	background-color: #1E1F26;
+}

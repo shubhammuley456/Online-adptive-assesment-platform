@@ -1,0 +1,12 @@
+Hi, (student name). Thanks for using our portal 'Online Adaptive Assesement Portal'  This is your analysis report for (subject-name).
+
+Your percentile score was 74.3 %. Which is considered to be very good. Your average time  to answer each question is 2:35 minutes.You can still perform better. You have attempted 12 easy level question out of which 9 were correct. 15 medium level question out of which 8 were correct. And 3 hard level question out of which 1 is correct. Hence your (subject-accuracy) is 45%. 
+
+(if user have given mock test second time  )
+Comparing your current mock test score with previous one, we came to conclusion that. You have improved by 3%. Which is considered to be very bad.  You need to work hard to improve you accuracy in (subject).
+
+ You can still perform better. Best of luck for the next Mock Test.
+
+Cheers,
+OAA Team
+  

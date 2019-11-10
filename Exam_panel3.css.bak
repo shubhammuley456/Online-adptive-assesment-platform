@@ -1,0 +1,155 @@
+@media only screen and (min-width:1024px) and (max-width:5000px){
+
+#exam_panel_header{
+background-color:#1E1F26;
+height: 18vh;/*100*/
+border-radius:0.3875vw; 
+width:130vw;
+}
+
+#exam_panel_headerR{
+border-left: 0.2vw solid white;
+
+}
+
+#header_username{
+margin-top:1.55vw;
+height:3.875vh;
+font-size:1.5em;
+text-align:center;
+padding-top:2vw;
+font-family: Dosis;
+color: white;
+}
+#header_subject{
+margin-top:1.55vw;
+height:3.875vh;
+padding-top:2vw;
+text-align:center;
+
+font-size:1.5em;
+font-family: Dosis;
+color: white;
+}
+#header_endexam{
+margin-top:1.55vw;
+padding-top:0.5vw;
+height:3.875vh;
+font-size:1.5em;
+font-family: Dosis;
+color: white;
+
+}
+#timer{
+
+margin-top:1.55vw;
+margin-left:3.875vw;
+padding-top:0.5vw;
+
+color: white;
+font-family: Dosis;
+font-size: 1.5em;
+}
+
+
+/*ACCURACY METER*/
+#progressive_struc{
+margin-top:15px; 
+margin-left: 80px;
+height:30px;
+width:1000px; 
+border-radius:5px;
+background-color:grey;
+
+
+}
+#progressbar{
+	border-radius:5px;
+	margin-left:0px;
+	background-color:#F60100;
+	height:30px;
+	width: 0px;
+}
+#exam_panel_exam_header{
+margin-top:3.1vw;
+margin-left:-1.55vw;
+height:23.25vw;
+}
+#question_div{
+max-width:100%;
+padding-left:20px;
+
+}
+/*ACCURACY METER*/
+#question_count{
+padding-top:15px;
+padding-left: 30px;
+max-width:5%;
+}
+#question_card{
+
+margin-top: 0.775vw;
+margin-left: 6vw;
+width:80vw;
+height: 20vh;
+font-size: 25px;
+font-family: Dosis;
+border:0.1vw solid #F60100;
+border-radius: 1vw;
+padding-top: 1.9375vw;
+}
+
+#question_text{
+
+	height: inherit;
+	font-size:1em;
+}
+
+#option_header{
+margin-top:0.775vw;
+margin-left:6vw;
+width:80vw;
+
+}
+#option{
+   
+   margin-left:-vw;
+	height: 15vh;
+	border:0.1vw solid #003B46;
+	border-radius: 1vw;
+	font-family: Dosis;
+    
+}
+#submit_button{
+margin-left:7vw;
+margin-top: 2vw;
+width:20vw;
+height:8vh;
+
+font-family: Dosis;
+font-size: 1em;
+border-radius: 1vw;
+padding-top:-2vw;
+}
+
+
+#skip_button{
+margin-left:13vw;
+margin-top: 2vw;
+font-family: Dosis;
+font-size: 1em;
+border-radius: 1vw;
+width:20vw;
+height:8vh;
+}
+
+
+#exam_panel_buttons{
+margin-left:10vw;
+width: 70%;
+}
+}
+
+
+
+

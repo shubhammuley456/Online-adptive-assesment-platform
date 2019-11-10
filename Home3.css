@@ -1,0 +1,180 @@
+
+
+body{
+background-color:
+}
+#modules_body{
+
+margin-top:3.875vw;
+margin-left:2.5vw;
+
+height:46.5vw;
+text-align:center;
+color: white;
+font-size: 3.875vw;
+
+}
+a:hover{
+ color:green;
+}
+
+#card_mock_module1{
+	width:23.25vw;/*300*/
+	height: 37.875vw;/*450*/
+	border: .0775vw solid #65A5AD;/*1*/
+	margin-left: 12vw;
+}
+
+#card_mock_module2{
+	width:23.25vw;/*300*/
+	height: 37.875vw;/*450*/
+	border: .0775vw solid #65A5AD;/*1*/
+   margin-top:-37.875vw; 
+   margin-left:38.25vw;
+}
+
+#card_mock_module3{
+	width:23.25vw;/*300*/
+	height: 37.875vw;/*450*/
+	border: .0775vw solid #65A5AD;/*1*/
+   margin-top:-37.875vw;
+   margin-left:64.5vw
+   }
+
+
+
+#carousel_indicators{
+margin-top: 11.625vw;
+}
+#carousel_slide{
+height: 38.75vw;
+width:100.75vw;
+margin-left:-7.75vw;
+}
+#contact_label{
+
+	color:black;
+	font-size:3.1vw;/*40*/
+	font-family: Dosis;
+
+}
+
+.card-title{
+	color:black;
+	font-size:1.9375vw;/*25*/
+	font-family: Dosis;
+	border-bottom: 0.0775vw solid #F60100;/*1*/
+}
+#card_block{
+margin-top: 0.3875vw;
+}
+#card_footer{
+margin-top:1vw;
+margin-left:0.075vw;
+}
+
+#card-mock-img{
+	width:23.095vw;/*298*/
+	height:10.85vw;/*140*/
+	margin-top: -0.775vw;/*10*/
+
+}
+#button_begin{
+margin-top:-2vw;
+margin-left:-0.9vw;
+width:8vw;
+height:3.875vw;
+font-family:Dosis;
+font-size:1.4vw;
+}
+#button_accuracy_level{
+margin-top:-2vw;
+margin-left:0vw;
+width:12vw;
+height:3.875vw;
+font-family:Dosis;
+font-size:1.4vw;
+}
+.card-text{
+	color:black;
+	font-size:1.1625vw; /*15*/
+	font-family: Dosis;
+}
+#card_footer{
+	border-top:0.0775vw solid #F60100 ;
+}
+
+
+#nav_text{
+	font-size:5.425vw;/*70*/
+	font-family: Dosis;
+
+}
+
+#proj_desc_col{
+background-color:#e3edf4;height:50vw;text-align:center;color: white;
+}
+
+#proj_desc_title{
+padding-top:4vw;font-size: 2em;
+}
+
+#project_desc{
+	color:black;
+	font-size:6em;/*70*/
+	font-family: Dosis;
+}
+
+
+#how_works_col{
+background-color:#e3edf4;
+height:50vw;
+text-align:center;
+color: white;
+}
+
+#how_works_title{
+padding-top:4vw;
+font-size: 2em;
+font-family: Dosis;
+}
+
+#how_works_desc{
+	color:black;
+	font-size:2em;/*70*/
+	font-family: /Dosis;
+}
+
+
+
+#contact_us_col{
+font-size:2em;
+background-color:#e3edf4;
+
+}
+#contact_us_title{
+font-size: 3.1vw;
+text-align: center;
+}
+#contact_us_name{
+font-size: 3.1vw;
+}
+#contact_us_name_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+}
+#contact_us_email{
+font-size: 3.1vw;
+}
+#contact_us_email_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+
+}
+
+#contact_us_textarea{
+border-radius:0.48vw;ffont-size:3.1vw; font-family:Dosis;height:23.25vw;width: 54.25vw;resize: none;
+}
+#contact_us_submit{
+height:4vw;width:20vw;padding-top:0vw;font-size:2vw;font-family:Dosis;
+}
+
+

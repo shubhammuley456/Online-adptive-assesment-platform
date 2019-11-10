@@ -1,0 +1,383 @@
+
+#row1{
+height:30vw;
+
+}
+
+#get_started{
+	margin-top: 7.75vw;
+ 	margin-left: 40vw;
+
+	width:11.625vw ;
+	height: 5.425vw;
+	border:0.155vw solid white; 
+}
+
+#website_title{
+text-align:center;
+padding-top:5vw;
+color:white;
+font-size:2.5em;
+white-space:nowrap
+}
+
+#mock_title{
+margin-top:-6vw;
+margin-left:-7vw;
+color:black;
+font-family:Dosis;
+font-size:1em;
+}
+
+a:hover{		
+background-color:black;
+ color:green;
+ }
+#myModal2{
+
+}
+#username_label{
+margin-left:2vw;
+height:4vw;
+font-size:1em;
+font-family:Dosis;
+
+}
+
+#username{
+margin-top:-2vw;
+margin-left:2vw;
+border:0.08vw solid white;
+border-bottom:0.1vw solid black;
+border-radius:0.1vw;
+width:18vw;
+font-size:1em;
+font-family:Dosis;
+
+}
+
+#password_label{
+margin-left:2vw;
+height:4vw;
+font-size:1em;
+font-family:Dosis;
+}
+
+#password{
+margin-top:-2vw;
+margin-left:2vw;
+border:0.08vw solid white;
+border-bottom:0.1vw solid black;
+border-radius:0.1vw;
+width:18vw;
+font-size:1em;
+font-family:Dosis;
+
+}
+
+#name_tick{
+	font-size:1.2em;
+	color: green;
+}
+
+#email_tick{
+	font-size:1.2em;
+	color: green;
+}
+#phone_tick{
+	font-size:1.2em;
+	color: green;
+}
+#username2_tick{
+	font-size:1.2em;
+	color: green;
+}
+#password2_tick{
+	font-size:1.2em;
+	color: green;
+}
+
+#name_error{
+color:red;
+font-size:12px;
+	
+}
+#email_error{
+color:red;
+font-size:12px;
+	
+}
+#phoneno_error{
+color:red;
+font-size:12px;
+	
+}
+#username_error2{
+color:red;
+font-size:12px;
+	
+}
+#password_error2{
+color:red;
+font-size:12px;
+	
+}
+
+
+#link_modules
+{
+height:60vw;
+background-color:white;
+margin-top:1vw;
+
+}
+#register{
+	width:12vw;
+	margin-left: -5vw; 
+	background-color: blue;
+}
+#modules_body{
+
+margin-top:10vw;
+margin-left:6vw;
+height:48.5vw;
+text-align:center;
+color: white;
+font-size: 3.875vw;
+
+}
+
+#card_mock_module1{
+	width:23.25vw;/*300*/
+	height: 39vw;/*450*/
+	border: .0775vw solid white;/*1*/
+	border-bottom: .35vw solid black;
+	border-top: .35vw solid black;
+	margin-left: 12vw;
+}
+
+#card_mock_module2{
+	width:23.25vw;/*300*/
+	height: 39vw;/*450*/
+	border: .0775vw solid white;/*1*/
+   border-bottom: .35vw solid black;
+	border-top: .35vw solid black;
+	
+   margin-top:-39vw; 
+   margin-left:38.25vw;
+}
+
+#card_mock_module3{
+	width:23.25vw;/*300*/
+	height: 39vw;/*450*/
+	border: .0775vw solid white;/*1*/
+    border-bottom: .35vw solid black;
+	border-top: .35vw solid black;
+	
+   margin-top:-39vw;
+   margin-left:64.5vw
+   }
+
+
+
+#carousel_indicators{
+margin-top: 13vw;
+
+}
+
+#carousel_slide{
+height: 38.75vw;
+width:100.75vw;
+margin-left:-7.75vw;
+}
+
+
+#contact_label{
+	color:black;
+	font-size:3.1vw;/*40*/
+	font-family: Dosis;
+}
+
+.card-title{
+	color:black;
+	/*25*/
+	font-family:Dosis; 
+    font-size: .5em;
+      border-bottom: 0.0775vw solid #F60100;/*1*/
+}
+
+#card_block{
+margin-top: 0.3875vw;
+}
+
+#card_footer{
+margin-top:1vw;
+margin-left:0.075vw;
+}
+
+#card-mock-img{
+	width:23.095vw;/*298*/
+	height:10.85vw;/*140*/
+	margin-top: -0.775vw;/*10*/
+}
+
+#button_begin{
+margin-top:-2vw;
+margin-left:-0.9vw;
+width:8vw;
+height:3.5vw;
+font-family:Dosis;
+font-size:1.4vw;
+background-color:white;
+border:0.1vw solid blue;
+border-radius:.4vw;
+color:black;
+}
+#button_begin:hover{
+border:1px solid #F60100;
+}
+
+
+#button_accuracy_level{
+margin-top:-2vw;
+margin-left:0vw;
+width:12vw;
+height:3.875vw;
+font-family:Dosis;
+font-size:1.4vw;
+}
+
+.card-text{
+	color:black;
+	font-size:1.1625vw; /*15*/
+	font-family: Dosis;
+}
+
+#card_footer{
+	border-top:0.0775vw solid #F60100 ;
+}
+#nav_text{
+	font-size:5.425vw;/*70*/
+	font-family: Dosis;
+
+}
+#nav_link_text:hover{
+color:red;
+}
+
+#proj_desc_col{
+background-color:white;
+height:50vw;
+text-align:center;
+color: white;
+}
+
+#proj_desc_title{
+padding-top:4vw;
+font-size: 2em;
+font-family: Dosis;
+}
+
+#project_desc{
+color:#081359;
+	font-size:0.8em;/*70*/
+	font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.33em;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+	
+	
+}
+
+#how_works_col{
+background-color:white;
+height:50vw;
+text-align:center;
+
+}
+
+#how_works_title{
+padding-top:1vw;
+font-size: 2em;
+font-family:Dosis;
+}
+
+#how_works_desc{
+	color:#081359;
+	font-size:0.8em;/*70*/
+	font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.33em;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+	
+    }
+
+
+
+
+#contact_us_col{
+font-size:2em;
+background-color:white;
+
+}
+#contact_us_title{
+font-size: 1em;
+text-align: center;
+font-family: Dosis;
+font-weight:100;
+color:black;
+}
+#contact_us_name{
+text-align: center;
+
+font-size: 1em;
+
+   color:#081359;
+	font-size:1.6em;/*70*/
+	font-family: futura-pt;
+    font-weight: 400;
+        font-size: 1.33em;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+   
+
+}
+
+#contact_us_name_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+}
+
+#contact_us_email{
+text-align: center;
+
+  color:#081359;
+	font-size:1.6em;/*70*/
+	font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.33em;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+   
+
+}
+#contact_us_email_input{
+border-radius:0.48vw;font-family:Dosis;font-size:3vw;width: 31vw;height: 3.875vw;
+
+}
+#contact_us_textarea{
+border-radius:0.48vw;font-size:.5em; font-family:Dosis;height:23.25vw;width: 54.25vw;resize: none;
+}
+#contact_us_submit{
+height:4vw;
+width:20vw;
+padding-top:0vw;
+margin-left: 4vw;
+font-size:2vw;
+font-family:Dosis;
+}
+

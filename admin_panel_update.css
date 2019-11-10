@@ -1,0 +1,45 @@
+
+
+#question_card{
+margin-top: 10px;
+margin-left: 20%;
+height: 50px;
+width: 800px;
+
+font-size: 15px;
+font-family: Dosis;
+border:1px solid #F60100;
+border-radius: 5px;
+padding-top: 25px;
+}
+#option{
+
+
+	height: 30px;
+	border:1px solid #003B46;
+	border-radius: 5px;
+	font-family: Dosis;
+	font-size: 15px;
+
+}
+
+#option_input{
+height: 25px;
+width: 350px;
+margin-top: 2px
+
+}
+
+#option_col{
+	width: 800px;
+    margin-top: 10px;
+	margin-left:195px;
+}
+#select_answer{
+width: 150px;
+height: 30px;
+margin-top:10px;
+border: 1px solid #F60100;
+border-radius: 5px;
+font-family: Dosis;
+}
