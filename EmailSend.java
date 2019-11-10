@@ -1,19 +1,23 @@
+package Mailer;
 
 import java.util.*;
 import javax.mail.*;
 import javax.mail.internet.*;
 import javax.mail.internet.MimeMessage;
+
 public class EmailSend {
 
-    public static void main(String args[]){
+    public void sendMail(String email ,String password){
         try{
             String host ="smtp.gmail.com" ;
             String user = "nilay250@gmail.com";
-            String pass = "8720814612kapaleynilay";
-            String to = "shubhammuley456@gmail.com ";
+            String pass = "kapaley.nilay0114cs161062";
+            String to = email;
             String from = "nilay250@gmail.com";
-            String subject = "Testing Mail .";
-            String messageText = "hey!!!!";
+            String subject = "Password Reset";
+        String messageText = "Hi, "+email+". your password is "+password;
+ 
+
             boolean sessionDebug = false;
 
             Properties props = System.getProperties();
